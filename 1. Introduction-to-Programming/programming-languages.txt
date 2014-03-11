@@ -1,0 +1,9 @@
+PHP - PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. PHP is a procedural language in concept and although. Comparing C# and PHP, PHP is a language that is used for smaller projects.
+
+JAVA - Java is a computer programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible. Similar to C# and his most serious competitor. We can say that C# is more powerfull, more rich and better engineered than Java.
+
+C++ is a general purpose programming language which is regarded as an intermediate-level language, as it comprises both high-level and low-level language features. It is Similar to C#, but C++ is suitable when you need very close work with the hardware. C++ is considered as old and primitive language.
+
+C - computer programming language which is designed with constructs that map efficiently to typical machine instructions. It is suitable for low-level programming. C is also considered as old and primitive language. 
+
+Pascal  - is an influential imperative and procedural programming language, designed in 1968–1969 as a small and efficient language intended to encourage good programming practices using structured programming and data structuring. There are a lot of differencies with C#. The most importans is that Pascal is procedural language. Also it is very old.

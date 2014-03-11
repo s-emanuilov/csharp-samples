@@ -1,0 +1,1 @@
+C# is the programming language, .NET Framework is the platform behind C#. The C# language is distributed together with a special environment, called the Common Language Runtime (CLR), which is part of the platform .NET Framework. So we can say that .NET Framework is the kernel which can start and execute programs writen in C#.

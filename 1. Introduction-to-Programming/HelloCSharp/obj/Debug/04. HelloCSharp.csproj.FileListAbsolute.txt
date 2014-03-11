@@ -1,0 +1,5 @@
+D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\HelloCSharp\obj\Debug\HelloCSharp.pdb
+D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\HelloCSharp\bin\Debug\HelloCSharp.exe
+D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\HelloCSharp\bin\Debug\HelloCSharp.pdb
+D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\HelloCSharp\obj\Debug\04. HelloCSharp.csprojResolveAssemblyReference.cache
