@@ -1,0 +1,5 @@
+D:\Software University\C# Basics - March 2014\2. Primitive-Data-Types-and-Variables\Primitive-Data-Types-Variables\8. IsoscelesTriangle\bin\Debug\_8.IsoscelesTriangle.exe
+D:\Software University\C# Basics - March 2014\2. Primitive-Data-Types-and-Variables\Primitive-Data-Types-Variables\8. IsoscelesTriangle\bin\Debug\_8.IsoscelesTriangle.pdb
+D:\Software University\C# Basics - March 2014\2. Primitive-Data-Types-and-Variables\Primitive-Data-Types-Variables\8. IsoscelesTriangle\obj\Debug\_8.IsoscelesTriangle.exe
+D:\Software University\C# Basics - March 2014\2. Primitive-Data-Types-and-Variables\Primitive-Data-Types-Variables\8. IsoscelesTriangle\obj\Debug\_8.IsoscelesTriangle.pdb
+D:\Software University\C# Basics - March 2014\2. Primitive-Data-Types-and-Variables\Primitive-Data-Types-Variables\8. IsoscelesTriangle\obj\Debug\8. IsoscelesTriangle.csprojResolveAssemblyReference.cache
