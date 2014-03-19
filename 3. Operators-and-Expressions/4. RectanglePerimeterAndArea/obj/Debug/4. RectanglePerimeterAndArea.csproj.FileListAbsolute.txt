@@ -1,0 +1,5 @@
+D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\4. RectanglePerimeterAndArea\bin\Debug\_4.RectanglePerimeterAndArea.exe
+D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\4. RectanglePerimeterAndArea\bin\Debug\_4.RectanglePerimeterAndArea.pdb
+D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\4. RectanglePerimeterAndArea\obj\Debug\4. RectanglePerimeterAndArea.csprojResolveAssemblyReference.cache
+D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\4. RectanglePerimeterAndArea\obj\Debug\_4.RectanglePerimeterAndArea.exe
+D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\4. RectanglePerimeterAndArea\obj\Debug\_4.RectanglePerimeterAndArea.pdb
