@@ -1,5 +1,0 @@
-D:\Software University\C# Basics - March 2014\4. Console-Input-Output\4. Console-Input-Output\11. DividableNumbersInterval\bin\Debug\_11.DividableNumbersInterval.exe
-D:\Software University\C# Basics - March 2014\4. Console-Input-Output\4. Console-Input-Output\11. DividableNumbersInterval\bin\Debug\_11.DividableNumbersInterval.pdb
-D:\Software University\C# Basics - March 2014\4. Console-Input-Output\4. Console-Input-Output\11. DividableNumbersInterval\obj\Debug\11. DividableNumbersInterval.csprojResolveAssemblyReference.cache
-D:\Software University\C# Basics - March 2014\4. Console-Input-Output\4. Console-Input-Output\11. DividableNumbersInterval\obj\Debug\_11.DividableNumbersInterval.exe
-D:\Software University\C# Basics - March 2014\4. Console-Input-Output\4. Console-Input-Output\11. DividableNumbersInterval\obj\Debug\_11.DividableNumbersInterval.pdb

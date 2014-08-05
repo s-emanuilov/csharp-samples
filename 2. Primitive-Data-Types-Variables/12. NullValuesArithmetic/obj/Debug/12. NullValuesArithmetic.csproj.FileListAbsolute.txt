@@ -1,4 +1,0 @@
-D:\Software University\C# Basics - March 2014\2. Primitive-Data-Types-and-Variables\Primitive-Data-Types-Variables\12. NullValuesArithmetic\bin\Debug\_12.NullValuesArithmetic.exe
-D:\Software University\C# Basics - March 2014\2. Primitive-Data-Types-and-Variables\Primitive-Data-Types-Variables\12. NullValuesArithmetic\bin\Debug\_12.NullValuesArithmetic.pdb
-D:\Software University\C# Basics - March 2014\2. Primitive-Data-Types-and-Variables\Primitive-Data-Types-Variables\12. NullValuesArithmetic\obj\Debug\_12.NullValuesArithmetic.exe
-D:\Software University\C# Basics - March 2014\2. Primitive-Data-Types-and-Variables\Primitive-Data-Types-Variables\12. NullValuesArithmetic\obj\Debug\_12.NullValuesArithmetic.pdb

@@ -1,5 +1,0 @@
-D:\Software University\C# Basics - March 2014\4. Console-Input-Output\4. Console-Input-Output\12. FallingRocks\bin\Debug\_12.FallingRocks.exe
-D:\Software University\C# Basics - March 2014\4. Console-Input-Output\4. Console-Input-Output\12. FallingRocks\bin\Debug\_12.FallingRocks.pdb
-D:\Software University\C# Basics - March 2014\4. Console-Input-Output\4. Console-Input-Output\12. FallingRocks\obj\Debug\12. FallingRocks.csprojResolveAssemblyReference.cache
-D:\Software University\C# Basics - March 2014\4. Console-Input-Output\4. Console-Input-Output\12. FallingRocks\obj\Debug\_12.FallingRocks.exe
-D:\Software University\C# Basics - March 2014\4. Console-Input-Output\4. Console-Input-Output\12. FallingRocks\obj\Debug\_12.FallingRocks.pdb

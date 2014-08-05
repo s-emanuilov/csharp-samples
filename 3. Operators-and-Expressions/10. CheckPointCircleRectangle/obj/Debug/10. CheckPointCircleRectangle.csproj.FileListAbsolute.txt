@@ -1,4 +1,0 @@
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\10. CheckPointCircleRectangle\bin\Debug\_10.CheckPointCircleRectangle.exe
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\10. CheckPointCircleRectangle\bin\Debug\_10.CheckPointCircleRectangle.pdb
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\10. CheckPointCircleRectangle\obj\Debug\_10.CheckPointCircleRectangle.exe
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\10. CheckPointCircleRectangle\obj\Debug\_10.CheckPointCircleRectangle.pdb

@@ -1,5 +1,0 @@
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\PrintNumbers\obj\Debug\PrintNumbers.exe
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\PrintNumbers\obj\Debug\PrintNumbers.pdb
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\PrintNumbers\bin\Debug\PrintNumbers.exe
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\PrintNumbers\bin\Debug\PrintNumbers.pdb
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\PrintNumbers\obj\Debug\06. PrintNumbers.csprojResolveAssemblyReference.cache

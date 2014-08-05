@@ -1,5 +1,0 @@
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\PrintDate\bin\Debug\PrintDate.exe
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\PrintDate\bin\Debug\PrintDate.pdb
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\PrintDate\obj\Debug\PrintDate.csprojResolveAssemblyReference.cache
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\PrintDate\obj\Debug\PrintDate.exe
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\PrintDate\obj\Debug\PrintDate.pdb

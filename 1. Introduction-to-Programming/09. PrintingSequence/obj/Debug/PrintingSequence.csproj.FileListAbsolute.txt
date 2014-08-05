@@ -1,4 +1,0 @@
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\PrintingSequence\bin\Debug\PrintingSequence.exe
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\PrintingSequence\bin\Debug\PrintingSequence.pdb
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\PrintingSequence\obj\Debug\PrintingSequence.exe
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\PrintingSequence\obj\Debug\PrintingSequence.pdb

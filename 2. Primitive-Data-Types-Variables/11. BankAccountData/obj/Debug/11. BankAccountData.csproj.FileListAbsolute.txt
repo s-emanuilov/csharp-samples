@@ -1,5 +1,0 @@
-D:\Software University\C# Basics - March 2014\2. Primitive-Data-Types-and-Variables\Primitive-Data-Types-Variables\11. BankAccountData\bin\Debug\_11.BankAccountData.exe
-D:\Software University\C# Basics - March 2014\2. Primitive-Data-Types-and-Variables\Primitive-Data-Types-Variables\11. BankAccountData\bin\Debug\_11.BankAccountData.pdb
-D:\Software University\C# Basics - March 2014\2. Primitive-Data-Types-and-Variables\Primitive-Data-Types-Variables\11. BankAccountData\obj\Debug\11. BankAccountData.csprojResolveAssemblyReference.cache
-D:\Software University\C# Basics - March 2014\2. Primitive-Data-Types-and-Variables\Primitive-Data-Types-Variables\11. BankAccountData\obj\Debug\_11.BankAccountData.exe
-D:\Software University\C# Basics - March 2014\2. Primitive-Data-Types-and-Variables\Primitive-Data-Types-Variables\11. BankAccountData\obj\Debug\_11.BankAccountData.pdb

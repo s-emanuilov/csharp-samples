@@ -1,5 +1,0 @@
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\16. BitsExchangeAdvanced\bin\Debug\_16.BitsExchangeAdvanced.exe
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\16. BitsExchangeAdvanced\bin\Debug\_16.BitsExchangeAdvanced.pdb
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\16. BitsExchangeAdvanced\obj\Debug\16. BitsExchangeAdvanced.csprojResolveAssemblyReference.cache
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\16. BitsExchangeAdvanced\obj\Debug\_16.BitsExchangeAdvanced.exe
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\16. BitsExchangeAdvanced\obj\Debug\_16.BitsExchangeAdvanced.pdb

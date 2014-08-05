@@ -1,5 +1,0 @@
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\6. FourDigitNumber - Var1\bin\Debug\_6.FourDigitNumber___Var1.exe
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\6. FourDigitNumber - Var1\bin\Debug\_6.FourDigitNumber___Var1.pdb
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\6. FourDigitNumber - Var1\obj\Debug\6. FourDigitNumber - Var1.csprojResolveAssemblyReference.cache
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\6. FourDigitNumber - Var1\obj\Debug\_6.FourDigitNumber___Var1.exe
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\6. FourDigitNumber - Var1\obj\Debug\_6.FourDigitNumber___Var1.pdb

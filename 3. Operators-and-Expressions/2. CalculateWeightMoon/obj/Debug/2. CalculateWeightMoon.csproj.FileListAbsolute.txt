@@ -1,5 +1,0 @@
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\2. CalculateWeightMoon\bin\Debug\_2.CalculateWeightMoon.exe
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\2. CalculateWeightMoon\bin\Debug\_2.CalculateWeightMoon.pdb
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\2. CalculateWeightMoon\obj\Debug\2. CalculateWeightMoon.csprojResolveAssemblyReference.cache
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\2. CalculateWeightMoon\obj\Debug\_2.CalculateWeightMoon.exe
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\2. CalculateWeightMoon\obj\Debug\_2.CalculateWeightMoon.pdb

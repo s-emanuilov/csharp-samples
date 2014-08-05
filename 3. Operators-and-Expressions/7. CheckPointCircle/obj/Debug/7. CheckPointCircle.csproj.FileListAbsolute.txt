@@ -1,4 +1,0 @@
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\7. CheckPointCircle\bin\Debug\_7.CheckPointCircle.exe
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\7. CheckPointCircle\bin\Debug\_7.CheckPointCircle.pdb
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\7. CheckPointCircle\obj\Debug\_7.CheckPointCircle.exe
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\7. CheckPointCircle\obj\Debug\_7.CheckPointCircle.pdb

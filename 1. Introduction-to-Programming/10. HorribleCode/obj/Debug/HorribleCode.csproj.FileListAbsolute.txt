@@ -1,4 +1,0 @@
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\HorribleCode\bin\Debug\HorribleCode.exe
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\HorribleCode\bin\Debug\HorribleCode.pdb
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\HorribleCode\obj\Debug\HorribleCode.exe
-D:\Software University\C# Basics - March 2014\1. Introduction-to-Programming\1. Introduction-to-Programming\HorribleCode\obj\Debug\HorribleCode.pdb

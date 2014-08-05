@@ -1,5 +1,0 @@
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\5. CheckThirdDigit - Var1\bin\Debug\_5.CheckThirdDigit___Var1.exe
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\5. CheckThirdDigit - Var1\bin\Debug\_5.CheckThirdDigit___Var1.pdb
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\5. CheckThirdDigit - Var1\obj\Debug\5. CheckThirdDigit - Var1.csprojResolveAssemblyReference.cache
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\5. CheckThirdDigit - Var1\obj\Debug\_5.CheckThirdDigit___Var1.exe
-D:\Software University\C# Basics - March 2014\3. Operators-and-Expressions-Homework\3. Operators-and-Expressions\5. CheckThirdDigit - Var1\obj\Debug\_5.CheckThirdDigit___Var1.pdb
