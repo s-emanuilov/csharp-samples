@@ -1,0 +1,59 @@
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\bin\Debug\Northwind.sdf
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Categories.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Customers.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Employees.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.OrderDetails.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Orders.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Products.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Shippers.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Suppliers.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutBox1.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForUs.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Query1.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Query2.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Query3.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Query4.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report1.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report2.resources
+C:\Users\Мони\Desktop\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SearchLocation.resources
+C:\Users\Мони\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Мони\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Мони\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\bin\Debug\Northwind.sdf
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.AboutBox1.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.ForUs.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Query1.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Query2.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Query3.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Query4.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report1.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Report2.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Categories.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Customers.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Employees.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.OrderDetails.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Orders.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Products.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Shippers.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Suppliers.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.SearchLocation.resources
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\GENERAL BACKUP\Documents\UNSS\C#\KURSOVA-C#\Kursova\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
